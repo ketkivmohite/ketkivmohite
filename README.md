@@ -12,7 +12,7 @@ I'm a passionate developer with a strong interest in Artificial Intelligence, Ma
 - 🔭 I'm currently working on **AI/ML projects and Full Stack applications**
 - 🌱 I'm currently learning **Deep Learning, Computer Vision, and Advanced Django**
 - 💬 Ask me about **Python, AI/ML, Django, Android Development**
-- 📫 How to reach me: **ketkivmohite@github**
+- 📫 How to reach me: **ketkimohite214@gmail.com**
 - ⚡ Fun fact: **I'm working on a Bharatanatyam Mudra Recognition system using Deep Learning!**
 
 ## 🛠️ Skills & Technologies
