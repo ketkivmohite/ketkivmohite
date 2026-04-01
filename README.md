@@ -12,11 +12,10 @@
 
 ## Who I am
 
-I don't just learn tech — I build with it until it works in production.
+Final-year MCA student from Mumbai building AI-powered backend systems.
 
-My projects aren't assignments. KhauBot has 71+ deployments. My AI CRM runs a real 5-tool LangGraph agent. My RAG system is containerised and reproducible. I connect technology to things that matter — Mumbai's food culture, classical Indian dance, healthcare workflows.
-
-I'm a backend developer and AI engineer who figures it out. No matter what.
+I learn by shipping. Every project here is deployed, documented, and real.
+I connect technology to things that matter — Mumbai's food culture, classical Indian dance, healthcare workflows.
 
 - 🔭 Currently building with **FastAPI, LangGraph, and LangChain**
 - 🌱 Deepening knowledge in **LLM agents, RAG architecture, and system design**
