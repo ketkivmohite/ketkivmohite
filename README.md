@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ketki Mohite</h1>
-<h3 align="center">MCA Student | AI/ML Enthusiast | Full Stack Developer</h3>
+<h3 align="center">MCA Student | Backend Developer | AI/ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ketkivmohite&label=Profile%20views&color=0e75b6&style=flat" alt="ketkivmohite" />
@@ -7,75 +7,76 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a strong interest in Artificial Intelligence, Machine Learning, and Full Stack Development. Currently pursuing my MCA, I enjoy building innovative solutions and exploring new technologies.
+I'm a final-year MCA student passionate about building AI-powered backend systems. I specialise in Python backend development with FastAPI and Django, and love integrating LLMs, RAG pipelines, and agentic architectures into real production applications.
 
-- 🔭 I'm currently working on **AI/ML projects and Full Stack applications**
-- 🌱 I'm currently learning **Deep Learning, Computer Vision, and Advanced Django**
-- 💬 Ask me about **Python, AI/ML, Django, Android Development**
+- 🔭 I'm currently working on **AI-powered full-stack applications with LangGraph and FastAPI**
+- 🌱 I'm currently learning **LLM agent design, advanced RAG, and system design**
+- 💬 Ask me about **Python, FastAPI, LangChain, LangGraph, RAG pipelines**
 - 📫 How to reach me: **ketkimohite214@gmail.com**
-- ⚡ Fun fact: **I'm working on a Bharatanatyam Mudra Recognition system using Deep Learning!**
+- ⚡ Fun fact: **I built a Bharatanatyam Mudra Classifier with ~98% accuracy using VGG19!**
 
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI/ML & Data Science
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+
+### AI & NLP
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Web Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📂 Featured Projects
 
-### 🎭 [BharatNatyam Mudra Classifier](https://github.com/ketkivmohite/BharatNatyam-Mudra-classifier)
-**MCA Research Project** – Bharatanatyam Mudra Recognition using VGG19
-- Deep Learning-based image classification system
-- Technologies: Python, TensorFlow, VGG19, Computer Vision
-- ⭐ 1 stars
+### 🍜 [KhauBot — Hyperlocal AI Food Discovery Platform](https://github.com/ketkivmohite/khaubot)
+**Production AI Platform** – Multilingual food discovery for Mumbai's informal food economy
+- Deployed full-stack AI platform on Vercel; sustained **71+ production deployments** across FastAPI + Django stack with PostgreSQL (Neon DB) backend
+- Engineered a **multilingual NLP pipeline** (English/Hindi/Hinglish) using Groq LLM to extract structured location, cuisine, and price intent from free-text queries
+- Technologies: Python, FastAPI, Django, LangChain, Groq, PostgreSQL, Vercel
 
-### 📚 [DSA-Python](https://github.com/ketkivmohite/DSA-Python)
-Data Structures and Algorithms implementation in Python
-- Comprehensive collection of DSA implementations
-- Technologies: Python
-- ⭐ 2 stars
+### 🏥 [AI CRM for Healthcare Professionals](https://github.com/ketkivmohite/ai-crm-healthcare)
+**Agentic AI System** – LangGraph-powered CRM for healthcare field reps
+- Built an AI-first CRM where reps describe doctor visits in plain language; a **LangGraph agent (5 tools)** auto-extracts structured data, sentiment, and follow-up actions
+- Delivered full-stack system with React + Redux frontend, FastAPI + SQLAlchemy backend, and Swagger-documented REST API
+- Technologies: Python, FastAPI, LangGraph, React, Redux, PostgreSQL, Docker
 
-### 📝 [Text Summarizer API](https://github.com/ketkivmohite/textsummarizerapi)
-API for automated text summarization
-- NLP-based text summarization service
-- Technologies: Python, NLP
+### 📚 [Hellobooks AI Assistant (RAG System)](https://github.com/ketkivmohite/hellobooks)
+**RAG Pipeline** – Accounting Q&A using retrieval-augmented generation
+- Designed a RAG pipeline using **FAISS vector store**, SentenceTransformers embeddings, and Groq LLM
+- Containerised with Docker for reproducible deployment
+- Technologies: Python, FAISS, SentenceTransformers, Groq, Docker
 
-### 🌐 [Python-Django](https://github.com/ketkivmohite/Python-Django)
-Django web development projects
-- Full stack web applications
-- Technologies: Python, Django
-
-### 📱 [Android](https://github.com/ketkivmohite/Android)
-Android application development projects
-- Mobile app development
-- Technologies: Java, Android SDK
-
-### 🤖 [Python AI/ML Projects](https://github.com/ketkivmohite/python-aiml-projects)
-Collection of AI and Machine Learning projects
-- Various AI/ML implementations
-- Technologies: Python, Machine Learning
-- 🍴 1 fork
+### 🎭 [Bharatanatyam Mudra Classifier](https://github.com/ketkivmohite/BharatNatyam-Mudra-classifier)
+**MCA Research Project** – Classical dance gesture recognition using Deep Learning
+- Fine-tuned a **VGG19 model** on a custom dataset achieving **~98% accuracy**; extended to V2 with error-detection on incorrect mudras
+- Technologies: Python, TensorFlow, Keras, VGG19, Computer Vision
+- ⭐ 1 star
 
 ## 📊 GitHub Stats
 
@@ -95,6 +96,8 @@ Collection of AI and Machine Learning projects
 
 <p align="left">
 <a href="https://github.com/ketkivmohite" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://linkedin.com/in/ketkimohite" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:ketkimohite214@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
 ---
