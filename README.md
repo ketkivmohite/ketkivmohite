@@ -4,7 +4,7 @@
 I build things that actually work in production — AI systems, REST APIs, full-stack apps.  
 Currently open to Python/Django internships in Mumbai.
 
-📩 ketkimohite214@gmail.com · [LinkedIn](https://linkedin.com/in/ketkimohite)
+ ketkimohite214@gmail.com · [LinkedIn](https://linkedin.com/in/ketkimohite)
 
 ---
 
@@ -21,7 +21,7 @@ I'm comfortable across the full backend cycle — designing schemas, building AP
 
 ## Projects
 
-### 🍜 KhauBot — Hyperlocal AI Food Discovery
+###  KhauBot — Hyperlocal AI Food Discovery
 **[Live →](https://khaubot-171u.vercel.app) · [GitHub →](https://github.com/ketkivmohite/khaubot)**  
 `Python` `Django` `FastAPI` `PostgreSQL` `LangChain` `Groq LLM` `Vercel`
 
@@ -33,7 +33,7 @@ Mumbai's street food economy is massive and completely undiscoverable online. Kh
 
 ---
 
-### 🏥 AI CRM for Healthcare Professionals
+### AI CRM for Healthcare Professionals
 **[GitHub →](https://github.com/ketkivmohite/ai-crm-healthcare)**  
 `Python` `FastAPI` `LangGraph` `SQLAlchemy` `PostgreSQL` `React` `Redux` `Swagger`
 
@@ -45,7 +45,7 @@ Field reps visit doctors all day and spend evenings filling CRM forms. This kill
 
 ---
 
-### 📚 Hellobooks — Accounting RAG Assistant
+###  Hellobooks — Accounting RAG Assistant
 **[GitHub →](https://github.com/ketkivmohite/hellobooks)**  
 `Python` `FAISS` `SentenceTransformers` `Groq LLM` `Docker`
 
@@ -56,7 +56,7 @@ Ask questions about balance sheets, bookkeeping, cash flow, invoices, or P&L —
 
 ---
 
-### 🎭 Bharatanatyam Mudra Classifier
+###  Bharatanatyam Mudra Classifier
 **[GitHub →](https://github.com/ketkivmohite/BharatNatyam-Mudra-classifier)**  
 `Python` `TensorFlow` `Keras` `VGG19` `Computer Vision`
 
@@ -89,16 +89,9 @@ Classical Indian dance has 32 single-hand gestures (mudras). I built a model tha
 
 ---
 
-## GitHub Stats
-
-![Ketki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketkivmohite&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketkivmohite&layout=compact&theme=default&hide_border=true&cache_seconds=1800)
-
----
-
 ## Let's talk
 
 I'm looking for a **Python/Django backend internship in Mumbai** — available immediately.
 
-📩 [ketkimohite214@gmail.com](mailto:ketkimohite214@gmail.com)  
-💼 [linkedin.com/in/ketkimohite](https://linkedin.com/in/ketkimohite)
+ [ketkimohite214@gmail.com](mailto:ketkimohite214@gmail.com)  
+ [linkedin.com/in/ketkimohite](https://linkedin.com/in/ketkimohite)
